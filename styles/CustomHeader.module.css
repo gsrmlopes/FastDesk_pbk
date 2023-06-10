@@ -1,0 +1,22 @@
+.header {
+    height: 10vh;
+    background-color: transparent;
+    border-bottom: 8px solid black;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.button {
+    padding: 5% 15%;
+    margin: 10px;
+    font-size: 90%;
+    border-radius: 15px;
+    background-color: rgba(74, 73, 87, 0.8);
+  }
+
+  .centering{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+  }

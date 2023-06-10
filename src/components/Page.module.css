@@ -1,0 +1,9 @@
+.footer {
+    /* centering the footer */
+    text-align: center;
+    transform: translate(-50%);
+    position: absolute;
+    left: 50%;
+    /* coloring the footer */
+    background: radial-gradient(circle at center, rgba(var(--background-start-rgb), 0.2), rgba(var(--background-end-rgb), 0.3));
+}
